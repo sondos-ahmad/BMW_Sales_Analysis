@@ -53,7 +53,7 @@ The goal of this EDA is to understand the structure of BMW’s global sales data
 ## 📁 Project Structure
 BMW-Sales-Analysis/
 ├── SQL/
-│ └── bmw_sales_exploration.sql
+│ └── BMW_EDA_Analysis.sql
 ├── PowerBI/
 │ ├── BMW_Sales_EDA.pbix
 │ └── dashboard_screenshots/
