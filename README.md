@@ -46,7 +46,7 @@ The goal of this EDA is to understand the structure of BMW’s global sales data
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot]([/powerBI/dashboard_screenshot.jpg])
+![Dashboard Screenshot](/powerBI/dashboard_screenshot.jpg)
 
 ---
 
