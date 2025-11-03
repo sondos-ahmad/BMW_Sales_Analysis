@@ -1,4 +1,4 @@
-# 🚗 BMW Sales Data Exploration  | 2010 – 2024
+# 🚗 BMW Sales Data Analysis  | 2010 – 2024
 
 This project represents the **Exploratory Data Analysis (EDA) and Full Analysis phase of BMW sales data between **2010 and 2024**.  
 It focuses on discovering trends, relationships, and summary statistics using **SQL** and **Power BI**.
